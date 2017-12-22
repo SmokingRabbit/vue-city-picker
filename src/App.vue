@@ -78,7 +78,6 @@
 <style>
     .container {
         width: 800px;
-        height: 800px;
         padding-top: 80px;
         margin: auto;
     }
